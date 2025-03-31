@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KestrelMinimal": {
+      "commandName": "Project",
+      "launchBrowser": false
+    }
+  }
+}
